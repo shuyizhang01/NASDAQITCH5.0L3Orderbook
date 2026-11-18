@@ -1,0 +1,12 @@
+/*
+
+!.gitignore
+!README.md
+!CMakeLists.txt
+!main.cpp
+!itch_processor.cpp
+!itch_processor.h
+!orderbook.cpp
+!orderbook.h
+!slab_allocator.h
+!full_report.txt
