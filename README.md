@@ -1,6 +1,6 @@
 # Low-Latency ITCH Order Book
 
-A high-performance C++23 market data processing engine for Level 3 (L3) order book reconstruction from Nasdaq TotalView-ITCH 5.0 binary feeds.
+A high-performance C++ market data processing engine for Level 3 (L3) order book reconstruction from Nasdaq TotalView-ITCH 5.0 binary feeds.
 
 ## Architecture
 
